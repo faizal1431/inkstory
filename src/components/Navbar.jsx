@@ -82,9 +82,9 @@ export default function Navbar() {
           <div className="hidden md:block">
             <Link
               to="/contact"
-              className="px-5 py-2.5 text-sm font-medium bg-[#765b7a] text-white rounded-sm hover:bg-[#FF66FF] transition-all duration-300 tracking-wide"
+              className="px-5 py-2.5 text-sm font-medium bg-[#FF66FF] text-black rounded-sm hover:bg-[#FF66FF] transition-all duration-300 tracking-wide"
             >
-              Get Quote
+              Contact Now
             </Link>
           </div>
 

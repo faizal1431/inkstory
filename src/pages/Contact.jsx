@@ -29,7 +29,7 @@ const socials = [
 const contactInfo = [
   { icon: RiPhoneLine, label: 'Call / WhatsApp', value: '6393721009 | 8471002744 | 7355754436' },
   { icon: RiMailLine, label: 'Email', value: 'inkstory009@gmail.com' },
-  { icon: RiMapPin2Line, label: 'Location', value: 'Prayagraj, Uttar Pradesh, India' },
+  { icon: RiMapPin2Line, label: 'Location', value: 'lucknow, Uttar Pradesh, India' },
 ]
 
 const initialForm = { name: '', email: '', phone: '', serviceType: 'Select a Service', message: '' }
